@@ -6,11 +6,11 @@ webhook_url:
 sections:
 - type: document
   path: README-FORESTRY.md
-  label: Help
+  label: About
   read_only: true
 - type: directory
   path: content
-  label: Pages
+  label: Texts by author
   create: all
   match: "*"
 upload_dir: static/uploads
