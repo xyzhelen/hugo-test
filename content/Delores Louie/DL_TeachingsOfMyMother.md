@@ -1,7 +1,6 @@
 +++
 block = "one-column-1"
 content = "Teachings of My Mother<br><strong>sniw’s lhunu tenulh<br></strong><em>Teachings of My Mother<br></em>Teachings (Carol Louie)<br>By: Delores Louie"
-draft = true
 headline = "sniw’s lhunu tenulh | Teachings of My Mother"
 
 +++
